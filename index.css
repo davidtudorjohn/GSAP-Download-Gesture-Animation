@@ -13,5 +13,17 @@
     color: #bebebe;
     font-size: 100px;
     max-height: 0;
-    overflow: visible;
+    overflow: hidden;
+}
+#downloadBtn{
+    padding: 1em 3.2em;
+    background-color: #4284fb;
+    text-decoration: none;
+    color: #fefefe;
+    font-family: raleway;
+    font-weight: 700;
+    text-align: center;
+    display: block;
+    position: absolute;
+    top: 100px;
 }
