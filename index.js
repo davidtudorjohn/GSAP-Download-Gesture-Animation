@@ -1,0 +1,1 @@
+TweenMax.to(".fa.fa-download", 2, {y:"240px", opacity:0});

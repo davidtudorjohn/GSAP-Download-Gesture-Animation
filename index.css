@@ -1,0 +1,17 @@
+#container{
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    text-align: left;
+    justify-content: center;
+    background-color: #fefefe;
+    display: flex;
+    vertical-align: center;
+}
+
+.fa.fa-download{
+    color: #bebebe;
+    font-size: 100px;
+    max-height: 0;
+    overflow: visible;
+}
